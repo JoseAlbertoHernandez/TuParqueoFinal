@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748954293798",
+    "project_id": "tuparqueo-6c224",
+    "storage_bucket": "tuparqueo-6c224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748954293798:android:49ac20e90469eec16af8e7",
+        "android_client_info": {
+          "package_name": "com.edu.unab.tuparqueo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748954293798-q1pj2vi6fa36avp47c4t4k1otopb3kr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsnxFR3br0GMKdf9Qd6t9EprtcXtu1BTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748954293798-q1pj2vi6fa36avp47c4t4k1otopb3kr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

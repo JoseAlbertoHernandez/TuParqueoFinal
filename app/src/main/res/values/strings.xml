@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TuParqueo</string>
+    <string name="btnArranque">BIENVENIDO</string>
+    <string name="txtAdministrador">ADMINISTRADOR</string>
+    <string name="btnParqueadero">datos parqueadero</string>
+    <string name="btnEmpleado">empleado</string>
+    <string name="btnPlanTarifa">planes y tarifas</string>
+    <string name="btnZona">zona</string>
+    <string name="btnSalir">salir</string>
+    <string name="btnEstado">Estado zona</string>
+    <string name="btnGuardar">Registrar</string>
+    <string name="btnCancelar">cancelar</string>
+    <string name="txtRegEmpleado">REGISTRO EMPLEADO</string>
+    <string name="txtCedula">N° IDENTIFICACION</string>
+    <string name="txtNombre">NOMBRES</string>
+    <string name="txtApellido">APELLIDOS</string>
+    <string name="txtCargo">CARGO</string>
+    <string name="txtDireccion">DIRECCION</string>
+    <string name="txtTelefono">TELEFONO</string>
+    <string name="txtCorreo">CORREO ELECTRONICO</string>
+    <string name="txtParqueadero">RAZON SOCIAL</string>
+    <string name="txtPlanes">PLANES Y TARIFAS</string>
+    <string name="txtPlan">PLANES</string>
+    <string name="txtTarifa">TARIFAS</string>
+    <string name="txtZona">ZONAS</string>
+    <string name="txtNomZona">NOMBRE ZONA</string>
+    <string name="txtBahia">CANTIDAD BAHIAS</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnEditar">Editar</string>
+    <string name="txtContrasena">CONTRASEÑA</string>
+    <string name="txvRegVehiculo">REGISTRO DEL VEHICULO</string>
+    <string name="edtxPlaca">PLACA</string>
+    <string name="title_activity_localizacion">LocalizacionActivity</string>
+    <string name="btnlocalizacion">LOCALIZACION</string>
+
+
+</resources>
